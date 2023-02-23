@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "e9f82892f2dc69c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a523b3c781897c3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d864894d7d0244f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FIN206笔记/FIN206 Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa0d330730c37b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "81c80a97c051d08a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7b078a11de2bd21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70a4db435347da3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb30812f3f17f63d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58731ac74c4fda80",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fa363c931f6dd12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9bdbd7e61906bea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FIN206笔记/FIN206 Lecture 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d864679311baf388",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FIN206笔记/FIN206 Lecture 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320b5bcc918e3d2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c624074d572ac4d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FIN206笔记/FIN206 Lecture 1.md"
+              }
+            }
+          },
+          {
+            "id": "bbe6ee80fba86893",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "99a5de3956a0f852",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d864894d7d0244f1",
+  "lastOpenFiles": [
+    "MTH202笔记/MTH202 Lecture 1.md",
+    "FIN202笔记/FIN202 Lecture 1.md",
+    "FIN206笔记/FIN206 Lecture 1.md",
+    "FIN206笔记",
+    "README.md",
+    "CPT202笔记/README.md",
+    "CPT202笔记/CPT202 Lecture 1.md",
+    "CPT202笔记/一些Y3S1讲过的知识点和开发可能要用到的方法.md",
+    "image1.md"
+  ]
+}
